@@ -1,0 +1,43 @@
+.header_top_logo {
+  a {
+    width: 100%;
+    text-decoration: none;
+    font-size: 2em;
+    font-weight: 800;
+    vertical-align: top;
+    .header_top_logo__iwfcv {
+      font-size: 2.1em;
+      color: var(--iwfcv-blue-300);
+    }
+    .header_top_logo__year {
+      color: var(--common-text);
+    }
+  }
+}
+
+.header_nav_wrapper {
+  .header_nav {
+    display: flex;
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+    gap: 1em;
+    font-size: 1.1em;
+    flex-wrap: wrap;
+    a.header_nav__link {
+      margin: 0;
+      padding: 0;
+      border: 0;
+      border-bottom: 5px solid rgba(0, 0, 0, 0);
+      color: var(--common-text);
+      text-decoration: none;
+      transition: .1s ease-in-out;
+      &:hover, &:focus {
+        border-bottom: 2px solid var(--common-text);
+        color: var(--common-text);
+        background: var(--common-bg);
+        transition: .1s ease-in-out;
+      }
+    }
+  }
+}

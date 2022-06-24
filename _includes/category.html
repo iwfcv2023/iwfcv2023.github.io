@@ -1,0 +1,23 @@
+<article class="category">
+  <header class="article-header">
+    <h1>{{ page.title | default: site.title }}</h1>
+  </header>
+  <div class="categories">
+    {% for category in site.categories %}
+    <div class="each-category">
+      {% assign category_id = category | first %}
+      {% if site.data.categories[category_id] %}
+        {% assign category_name = site.data.categories[category_id] %}
+      {% else %}
+        {% assign category_name = category_id %}
+      {% endif %}
+      <h2>{{ category_name }}</h2>
+      <ul>
+        {% for post in category.last %}
+          <li><a href="{{ post.url }}">[{{ category_name }}] {{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</article>

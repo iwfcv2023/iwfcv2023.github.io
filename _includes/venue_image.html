@@ -1,0 +1,14 @@
+<script src="{{ '/assets/js/mainCover.js' | relative_url }}"></script>
+<div class="header-cover-wrapper" id="header-cover-wrapper">
+  <img id="header-cover-img" />
+</div>
+<script type="text/javascript">
+  window.onload = () => {
+    var pathSetter = getRandomCover();
+    console.log(pathSetter);
+    var path;
+    if (pathSetter[0] === true) path = '{{ "/" | relative_url }}' + pathSetter[1];
+    else if (pathSetter[0] == false) path = pathSetter[1];
+    document.getElementById('header-cover-img').src = path;
+  };
+</script>

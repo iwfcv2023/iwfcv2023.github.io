@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="{{ page.pang | default: site.lang | default: "en" }}">
+  {%- include head.html -%}
+  <body>
+    {%- include header.html -%}
+    <main>
+      {% if page.class == "category" %}
+        {%- include category.html -%}
+      {% elsif page.class == "home" %}
+        {%- include home.html -%}
+      {% elsif page.class == "centerize" %}
+        {%- include centerize.html -%}
+      {% else %}
+        {%- include article.html -%}
+      {% endif %}
+    </main>
+    {%- include footer.html -%}
+  </body>
+</html>
