@@ -3,7 +3,7 @@
 
 var coverImages = [
   {
-    localPath: null,
+    localPath: 'assets/img/marina_01.jpg',
     remotePath: 'https://www.utophotel.com/UtopUnity_common/images/homepage/company/marina_01.jpg'
   },
   {
