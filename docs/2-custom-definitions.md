@@ -103,6 +103,8 @@ Jekyll의 의도 사항은 `note` `notice`와 같이 소문자로 된 단어를 
 
 `rect` 클래스를 이미지에 추가하여 제거할 수 있는데, Jekyll이 Markdown의 변형 분법인 Kramdown으로 처리하도록 설정되어 있으므로 다음과 같이 작성하여 처리할 수 있습니다: `![](path){:.rect}` 자세한 내용은 Kramdown의 HTML 속성 부여 문법을 참조하세요.
 
+구체적인 사용 예는 `_posts/2022-05-13-welcome-to-jekyll.markdown` 에 있습니다.  
+
 ### 5.2. 지도
 지도는 Figma 프로토타입 앱을 사용하여 제작되었습니다.  
 
