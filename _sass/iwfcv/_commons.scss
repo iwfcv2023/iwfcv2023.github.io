@@ -3,6 +3,7 @@ html {
   font-family: 'Pretendard', 'Noto Sans KR', 'Noto Sans JP',
     -apple-system, sans-serif;
   font-weight: 400;
+  font-size: 20px;
   overflow-x: hidden;
   --iwfcv-blue-100: #3DCDE0;
   --iwfcv-blue-200: #36AEF7;
@@ -22,7 +23,7 @@ body {
 
 main {
   /*width: 100%;*/
-  max-width: 1024px;
+  max-width: 1280px;
   min-height: 60vh;
   margin: auto;
   padding: 0 1.5em;
@@ -63,13 +64,28 @@ b {
   font-weight: bold;
 }
 
-img, .embed-wrapper {
+.embed-wrapper {
   border: 0;
   margin: 30px auto;
   border-radius: .7em;
   max-width: 600px;
   width: 100%;
   aspect-ratio: 3/2;
+  object-fit: cover;
+  background-size: cover;
+  text-align: center;
+  box-shadow: 3px 5px 7px 0px rgba(0, 0, 0, .5);
+  &.rect {
+    border-radius: 0;
+  }
+}
+
+img{
+  border: 0;
+  margin: 30px auto;
+  border-radius: .7em;
+  max-width: 600px;
+  width: 100%;
   object-fit: cover;
   background-size: cover;
   text-align: center;

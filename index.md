@@ -14,24 +14,39 @@ class: home
 
 **The International Workshop on Frontiers of Computer Vision (IW-FCV) is the exciting chance and place for inter-communication and discussion through many presentations of the advanced researches from the worldwide research communities of computer vision theory, applications, deep learning and big data.**  
 
+----
 ## What's New
-_Important Dates_
+#### _Important Dates_
 
 * 2022/05/31: [IW-FCV 2023 has been opened.](/)
 * _See [news page](/news) for more information_{: .gray}
 
+----
 ## Venue and Events
+#### Registration
 * [Registration](/registration) — TBA
-* Venue - Utop Marina Hotel, Yeosu
+* [Registration](/registration) — TBA
+  
+#### Venue  
+* Chonnam National University
+* Utop Marina Hotel, Yeosu
 
-<div style="text-align: center;"><iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26229.02703434233!2d127.73482546942918!3d34.73976050869272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dd92970360325%3A0xb657528636c2a2a1!2z7Jyg7YOR66eI66as64KY7Zi47YWUJuumrOyhsO2KuA!5e0!3m2!1sko!2skr!4v1653881007965!5m2!1sko!2skr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
-
+<div style="text-align: center">
+    <div style="float: left; width=640;">
+        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26217.972982622705!2d127.69687852002546!3d34.774566208993086!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dda892c8011a1%3A0xd897160ba71b4b7e!2z7KCE64Ko64yA7ZWZ6rWQIOyXrOyImOy6oO2NvOyKpA!5e0!3m2!1sko!2skr!4v1657934640891!5m2!1sko!2skr" width="1200" height="400" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <div style="float: right; width=640;">
+        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26229.02703434233!2d127.73482546942918!3d34.73976050869272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dd92970360325%3A0xb657528636c2a2a1!2z7Jyg7YOR66eI66as64KY7Zi47YWUJuumrOyhsO2KuA!5e0!3m2!1sko!2skr!4v1653881007965!5m2!1sko!2skr" width="200" height="400" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    </div>
+</div>
 See [attending page](/attend) for more information
 
+----
 ## Program
 
 See [program page](/program) for more information
 
+----
 ## Committee
 **General Chairs**
 * General Chair 1
@@ -55,6 +70,7 @@ See [program page](/program) for more information
 * Local Arrangement Chair 1
 * Local Arrangement Chair 2
 
+----
 ## History
 1. FCV1995 Daejeon
 2. FCV1996 Takamatsu
