@@ -4,21 +4,51 @@ layout: default
 permalink: /attend
 ---
 
-IW-FCV 2023은 푸르고 맑은 바다의 도시, 여수에서 개최됩니다.  
-IW-FCV 2023에 참여하려면 어떻게 준비해야하는지 알아보세요.  
+Write something  
 
 ## Venue
-IW-FCV 2023은 바다를 낀 여수 엑스포장이 한눈에 보이는 유탑 마리나 호텔에서 주최됩니다.  
-아름다운 여수 바다의 낮과 밤과 함께 그동안의 연구 성과를 발표해보세요.
 
-* **Utop Marina Hotel**  
-  * Odongdo-ro 61-15, Yeosu, Jeollanamdo (Sujeong-dong 777-1)  
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+**[Chonnam National University, Yeosu Campus](https://global.jnu.ac.kr/jnumain_en.aspx)**  
+ * 50, Daehak-ro, Yeosu-si, Jeollanam-do, Republic of Korea
 
-<div style="text-align: center;"><iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26229.02703434233!2d127.73482546942918!3d34.73976050869272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dd92970360325%3A0xb657528636c2a2a1!2z7Jyg7YOR66eI66as64KY7Zi47YWUJuumrOyhsO2KuA!5e0!3m2!1sko!2skr!4v1653881007965!5m2!1sko!2skr" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+<div style="text-align: center">
+    <div style="width=640">
+        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.21933451112!2d127.69675795103015!3d34.77525328031916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dda892c8011a1%3A0xd897160ba71b4b7e!2z7KCE64Ko64yA7ZWZ6rWQIOyXrOyImOy6oO2NvOyKpA!5e0!3m2!1sko!2skr!4v1659428305091!5m2!1sko!2skr" width="800" height="600" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+</div>
+* Write something about campus
 
-* [Utop Marina Hotel Official Site](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG)  
-* See [registration page](/registration#hotel-registration) for hotel reservation information
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+**[Utop Marina Hotel](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG)**  
+ * Odongdo-ro 61-15, Yeosu, Jeollanamdo (Sujeong-dong 777-1)  
 
+<div style="text-align: center">
+    <div style="width=640">
+        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26229.02703434233!2d127.73482546942918!3d34.73976050869272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dd92970360325%3A0xb657528636c2a2a1!2z7Jyg7YOR66eI66as64KY7Zi47YWUJuumrOyhsO2KuA!5e0!3m2!1sko!2skr!4v1653881007965!5m2!1sko!2skr" width="800" height="600" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+</div>
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+## Accommodation near the venue
+
+* [Utop Marina](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG){:target="_blank"}
+   * Odongdo-ro 61-15, Yeosu, Jeollanamdo (Sujeong-dong 777-1)
+* [~~Hilton DoubleTree~~](#){:target="_blank"}
+* [~~Hilton Riverside~~](#){:target="_blank"}
+* [~~Omni Riverside~~](#){:target="_blank"}
+
+
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
 ## Transportation
 <div style="margin-top: 1em;"></div><!-- for margin -->
 <div class="map-wrapper">
@@ -34,14 +64,3 @@ IW-FCV 2023은 바다를 낀 여수 엑스포장이 한눈에 보이는 유탑 �
 * (Plane) Incheon International Airport > (Train) Yongsan Station > Yeosu-EXPO Station
 * (Plane) Jeju International Airport > Yeosu Airport
 * (Plane) Gimhae International Airport > (Bus) Busan West Bus Terminal > Yeosu Bus Terminal
-
-## Hotels
-
-_List of hotels near the venue_
-
-* [Utop Marina](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG){:target="_blank"}
-   * Odongdo-ro 61-15, Yeosu, Jeollanamdo (Sujeong-dong 777-1)
-* [~~Hilton DoubleTree~~](#){:target="_blank"}
-* [~~Hilton Riverside~~](#){:target="_blank"}
-* [~~Omni Riverside~~](#){:target="_blank"}
-

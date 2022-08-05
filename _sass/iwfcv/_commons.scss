@@ -1,6 +1,7 @@
 html {
+
   width: 100%;
-  font-family: 'Pretendard', 'Noto Sans KR', 'Noto Sans JP',
+  font-family: 'Pretendard', 'Noto Sans KR', 'Noto Sans JP', 'Times New Roman',
     -apple-system, sans-serif;
   font-weight: 400;
   font-size: 20px;
@@ -10,23 +11,53 @@ html {
   --iwfcv-blue-300: #3476ED;
   --iwfcv-blue-400: #3E6AF7;
   --iwfcv-blue-500: #403BED;
-  --common-text: #000;
+  // --common-text: #000;
+  --common-text: #636363;
   --common-gray: #d1d1d1;
   --common-bg: #fff;
 }
+.test {
+  background: url(/assets/img/title.png);
+  background-size: contain;
+  background-position: center;
+  background-repeat: repeat-x;
+  width: 100vw;
+  margin-left: calc(-50vw + 50%);
+  padding-top: 250px;
+}
+.main_visual{
+  background:url(/assets/img/title.png) repeat-x center -20px;
+  background-size:2000px 350px;
+  padding-top:250px;
+}
+// .main_visual {
+//   background:url(/assets/img/title.png) repeat-x center -20px;
+//   background-size: 1280px 350px;
+//   padding:50px 0px 50px 0px;
+// }
+.main_visual2 {
+  padding:0px 0px 50px 0px;
+}
 
 body {
+
+  background: url(/assets/img/back.png);
+  background-size: 100px 100px;
+
   width: 100%;
   color: var(--common-text);
   line-height: 1.6;
 }
 
 main {
+  
+  background: url(/assets/img/null.png);
+  background-size: 200px 200px;
   /*width: 100%;*/
   max-width: 1280px;
   min-height: 60vh;
   margin: auto;
-  padding: 0 1.5em;
+  // padding: 0 1.5em;
   box-sizing: border-box;
   p {
     line-height: 1.6;
@@ -35,16 +66,17 @@ main {
   }
 }
 
-h1, h2, h3 {
+h1{
+  font-family: "Times New Roman";
   font-weight: bold;
   line-height: 1.6;
   text-align: center;
 }
-h1 { font-size: 2.5em; }
-h2 { font-size: 2em; margin-top: 1em; margin-bottom: .2em; }
-h3 { font-size: 1.7em; margin-top: .75em; margin-bottom: .1em; }
-h4 { font-size: 1.5em; margin-top: .5em; margin-bottom: .07em; }
-h5 { font-size: 1.3em; }
+h1 { font-size: 2.5em; color:#000;}
+h2 { font-size: 1.3em; margin-top: 0.1em; margin-bottom: 0.1em; text-align: center; color:#000 }
+h3 { font-size: 1.1em; margin-top: 0.1em; margin-bottom: 0.1em; text-align: center; color:#000 }
+h4 { font-size: 1.1em; margin-top: 2em; margin-bottom: 0.07em; color:#000 }
+h5 { font-size: 1.3em; color:#000 }
 
 a, .pseudo-a {
   cursor: pointer;
@@ -65,19 +97,11 @@ b {
 }
 
 .embed-wrapper {
-  border: 0;
   margin: 30px auto;
   border-radius: .7em;
-  max-width: 600px;
-  width: 100%;
-  aspect-ratio: 3/2;
   object-fit: cover;
   background-size: cover;
-  text-align: center;
   box-shadow: 3px 5px 7px 0px rgba(0, 0, 0, .5);
-  &.rect {
-    border-radius: 0;
-  }
 }
 
 img{
@@ -109,7 +133,7 @@ ul, ol {
 }
 ol li { list-style: decimal; }
 ul li {
-  list-style-type: "»";
+  list-style-type: "◦";
   &::marker {
     font-weight: 700;
   }

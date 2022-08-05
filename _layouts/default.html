@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ page.pang | default: site.lang | default: "en" }}">
+<html lang="{{ page.pang | default: site.lang | default: en }}">
   {%- include head.html -%}
   <body>
     {%- include header.html -%}
     <main>
+      <div class="test"></div>
+      <div>&nbsp;</div>
+      
       {% if page.class == "category" %}
         {%- include category.html -%}
       {% elsif page.class == "home" %}
