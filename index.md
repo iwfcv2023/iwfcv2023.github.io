@@ -58,7 +58,7 @@ class: home
 
 <div style="text-align: center">
     <div style="width=640">
-        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/d/u/0/embed?mid=1eXpMUeLIyPVIUQProEw2ii6Mn4f3huE&ehbc=2E312F" width="800" height="600" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/d/u/0/embed?mid=1eXpMUeLIyPVIUQProEw2ii6Mn4f3huE&ehbc=2E312F" width="800vw" height="400vw" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
 
