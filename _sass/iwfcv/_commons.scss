@@ -4,7 +4,7 @@ html {
   font-family: 'Pretendard', 'Noto Sans KR', 'Noto Sans JP', 'Times New Roman',
     -apple-system, sans-serif;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 1.5vw;
   overflow-x: hidden;
   --iwfcv-blue-100: #3DCDE0;
   --iwfcv-blue-200: #36AEF7;
@@ -23,7 +23,7 @@ html {
   background-repeat: repeat-x;
   width: 100vw;
   margin-left: calc(-50vw + 50%);
-  padding-top: 250px;
+  padding-top: 25vw;
 }
 .main_visual{
   background:url(/assets/img/title.png) repeat-x center -20px;
@@ -98,6 +98,8 @@ b {
 
 .embed-wrapper {
   margin: 30px auto;
+  width: 70vw;
+  height: 35vw;
   border-radius: .7em;
   object-fit: cover;
   background-size: cover;
