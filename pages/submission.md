@@ -30,7 +30,7 @@ IW-FCV2023 accepts the following three paper types.
 * Conference Date: February 20 - 22, 2023
 
 #### Submit Paper
-Paper submission is handled via EasyChair : [Submit Link](https://easychair.org/)
+Paper submission is handled via EasyChair : [Submit Link](https://easychair.org/conferences/?conf=iwfcv2023)
 
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
