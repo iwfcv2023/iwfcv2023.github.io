@@ -72,6 +72,45 @@ class: home
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
+## Organizing Committee
+
+<div style="font-weight: bold; color: gray">General Chairs</div>
+* Chilwoo Lee (Chonnam National University, Korea)
+* Kazuhiko Sumi, Aoyama Gakuin University, Japan
+
+<div style="margin: 30px"></div>
+
+<div style="font-weight: bold; color: gray">Program Chairs</div>
+* Inseop Na (Chosun University, Korea)
+* TBD
+
+<div style="margin: 30px"></div>
+
+<div style="font-weight: bold; color: gray">Financial Chair</div>
+* Daejin Kim (Chonnam National University, Korea)
+
+<div style="margin: 30px"></div>
+
+<div style="font-weight: bold; color: gray">Publication Chair</div>
+* Hieyong Jeong (Chonnam National University, Korea)
+
+<div style="margin: 30px"></div>
+
+<div style="font-weight: bold; color: gray">Publicity Chair</div>
+* Kyungbaek Kim (Chonnam National University, Korea)
+
+<div style="margin: 30px"></div>
+
+<div style="font-weight: bold; color: gray">Local Arrangement Chair</div>
+* Chunseong Shin (Chonnam National University, Korea)
+<div style="margin: 30px"></div>
+
+<div style="font-weight: bold; color: gray">Web Chair</div>
+* Inseop Na (Chosun University, Korea)
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
 ## Steering Committee
 * Yoshimitsu Aoki (Keio University, Japan)
 * Hiroyasu Koshimizu (YYC-Solution, Japan)
@@ -89,42 +128,7 @@ class: home
 * Jong-Il Park (Hanyang University, Korea)
 * Inseop Na (Chosun University, Korea)
 * Hieyong Jeong (Chonnam National University, Korea)
-
-<div style="height: 1rem;"></div>
-<div class="hr"></div>
-<div style="height: 1rem;"></div>
-## Organizing Committee
-
-<div style="font-weight: bold; color: gray">General Chairs</div>
-* Chilwoo Lee (Chonnam National University, Korea)
-* General Chair 2
-
-<div style="margin: 30px"></div>
-
-<div style="font-weight: bold; color: gray">Program Chairs</div>
-* Inseop Na (Chosun University, Korea)
-* Program Chair 2
-
-<div style="margin: 30px"></div>
-
-<div style="font-weight: bold; color: gray">Financial Chair</div>
-* Daejin Kim (Chonnam National University, Korea)
-
-<div style="margin: 30px"></div>
-
-<div style="font-weight: bold; color: gray">Publicity Chairs</div>
-* Hieyong Jeong (Chonnam National University, Korea)
-* Kyungbaek Kim (Chonnam National University, Korea)
-
-<div style="margin: 30px"></div>
-
-<div style="font-weight: bold; color: gray">Local Arrangement Chairs</div>
-* Daejin Kim (Chonnam National University, Korea)
-* Chunseong Shin (Chonnam National University, Korea)
-<div style="margin: 30px"></div>
-
-<div style="font-weight: bold; color: gray">Web Chair</div>
-* Inseop Na (Chosun University, Korea)
+* Kiryong Kwon(Bukyung National University, Korea)
 
 <div style="height: 1rem;"></div>
 <div class="hr"></div>

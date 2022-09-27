@@ -22,8 +22,8 @@ permalink: /registration
         <td rowspan="2">Non-Presenter</td>
         <td>General</td>
         
-        <td>30,000KRW (≒3,000JPY)</td>
-        <td>3,500KRW (≒3,500JPY)</td>
+        <td>30,000KRW (≒30,000JPY)</td>
+        <td>3,500KRW (≒35,000JPY)</td>
     </tr>
 
     <tr align = "center" >

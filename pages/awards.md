@@ -11,7 +11,8 @@ At the IW-FCV2023 awards ceremony will be held on February 21.
 * [IW-FCV 2023 Research Awards](#iwfcv-2023-research-awards)
     <br>- [Best Paper Award](#best-paper-award)
     <br>- [Best Poster Paper Award](#best-student-paper-award)
-    <br>- [Best Excellent Paper Award](#best-student-paper-award)
+    <br>- [Excellent Paper Award](#best-student-paper-award)
+    <br>- [Best Demo Award](#best-student-paper-award)
 
 <div style="margin: 10px; padding: 5px;"></div>
 
