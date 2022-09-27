@@ -4,7 +4,7 @@ html {
   font-family: 'Pretendard', 'Noto Sans KR', 'Noto Sans JP', 'Times New Roman',
     -apple-system, sans-serif;
   font-weight: 400;
-  font-size: 1.5vw;
+  font-size: 1.2vw;
   overflow-x: hidden;
   --iwfcv-blue-100: #3DCDE0;
   --iwfcv-blue-200: #36AEF7;
@@ -30,20 +30,11 @@ html {
   background-size:2000px 350px;
   padding-top:250px;
 }
-// .main_visual {
-//   background:url(/assets/img/title.png) repeat-x center -20px;
-//   background-size: 1280px 350px;
-//   padding:50px 0px 50px 0px;
-// }
 .main_visual2 {
   padding:0px 0px 50px 0px;
 }
 
 body {
-
-  background: url(/assets/img/back.png);
-  background-size: 100px 100px;
-
   width: 100%;
   color: var(--common-text);
   line-height: 1.6;
@@ -51,8 +42,6 @@ body {
 
 main {
   
-  background: url(/assets/img/null.png);
-  background-size: 200px 200px;
   /*width: 100%;*/
   max-width: 1280px;
   min-height: 60vh;
