@@ -67,7 +67,7 @@ class: home
 <div style="height: 1rem;"></div>
 ## Call for Paper
 
-[Download Pdf](/program)
+[Download Pdf](/assets/IW-FCV_2023_CFP_v2.pdf)
 
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
