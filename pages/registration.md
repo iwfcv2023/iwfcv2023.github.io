@@ -10,7 +10,7 @@ permalink: /registration
   <table style= "margin: auto">
     <th colspan = "2" style = "background-color: #E2E2E2">Registration fee</th>
     <th style = "background-color: #E2E2E2">Early Registration</th>
-    <th style = "background-color: #E2E2E2">Regular Registration</th>
+    <th style = "background-color: #E2E2E2">On Site Registration</th>
 
     <tr align = "center" >
         <td colspan = "2">General, Student (Presenter)</td>
@@ -22,8 +22,8 @@ permalink: /registration
         <td rowspan="2">Non-Presenter</td>
         <td>General</td>
         
-        <td>30,000KRW (≒30,000JPY)</td>
-        <td>3,500KRW (≒35,000JPY)</td>
+        <td>300,000KRW (≒30,000JPY)</td>
+        <td>350,000KRW (≒35,000JPY)</td>
     </tr>
 
     <tr align = "center" >
