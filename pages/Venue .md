@@ -4,11 +4,6 @@ layout: default
 permalink: /venue
 ---
 
-## Venue
-
-<div style="height: 1rem;"></div>
-<div class="hr"></div>
-<div style="height: 1rem;"></div>
 **[Utop Marina Hotel](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG)**  
  * Odongdo-ro 61-15, Yeosu, Jeollanamdo (Sujeong-dong 777-1)  
 
@@ -17,6 +12,12 @@ permalink: /venue
         <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26229.02703434233!2d127.73482546942918!3d34.73976050869272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dd92970360325%3A0xb657528636c2a2a1!2z7Jyg7YOR66eI66as64KY7Zi47YWUJuumrOyhsO2KuA!5e0!3m2!1sko!2skr!4v1653881007965!5m2!1sko!2skr" width="800" height="600" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+
+## Special discount for paricipants
 
 <div style="text-align:justify">A special discount is provided at the Utop Marina Hotel for conference participants. Ocean Family Twin (with breakfast for 2 persons) 150,000KRW, Ocean Family Double (with breakfast for 1 person) 132,000KRW. If you want a special discount, please fill out the link file below and send it to the hotel manager email ( naeun7522@nate.com ).</div>
 
@@ -31,10 +32,17 @@ permalink: /venue
 </div>
 <script src="/assets/js/mapChanger.js"></script>
 
-* 확대하거나 드래그하여 자세한 내용을 확인할 수 있습니다.
-  * [지도가 제대로 렌더되지 않는다면 새 창에서 지도를 확인하세요.](https://www.figma.com/file/6PCYyp6I4ZlIjHlibLLq1Y?node-id=4:60)
+* You can zoom in or drag to see more details.
+  * [If the map doesn't render properly, check the map in a new window.](https://www.figma.com/file/6PCYyp6I4ZlIjHlibLLq1Y?node-id=4:60)
 
-* (Plane) Incheon International Airport > Gimpo International Airport > Yeosu Airport
-* (Plane) Incheon International Airport > (Train) Yongsan Station > Yeosu-EXPO Station
-* (Plane) Jeju International Airport > Yeosu Airport
-* (Plane) Gimhae International Airport > (Bus) Busan West Bus Terminal > Yeosu Bus Terminal
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+
+## Plane to Venue
+
+* (Plane1) Incheon International Airport > Gimpo International Airport > Yeosu Airport
+* (Plane2) Incheon International Airport > (Train) Yongsan Station > Yeosu-EXPO Station
+* (Plane3) Jeju International Airport > Yeosu Airport
+* (Plane4) Gimhae International Airport > (Bus) Busan West Bus Terminal > Yeosu Bus Terminal
