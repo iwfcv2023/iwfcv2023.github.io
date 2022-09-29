@@ -18,12 +18,12 @@ html {
 }
 .test {
   background: url(/assets/img/title.png);
-  background-size: contain;
+  background-size: 75vw;
   background-position: center;
   background-repeat: repeat-x;
   width: 100vw;
   margin-left: calc(-50vw + 50%);
-  padding-top: 25vw;
+  padding-top: 15vw;
 }
 .main_visual{
   background:url(/assets/img/title.png) repeat-x center -20px;
