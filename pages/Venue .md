@@ -9,18 +9,6 @@ permalink: /venue
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
-**[Chonnam National University, Yeosu Campus](https://global.jnu.ac.kr/jnumain_en.aspx)**  
- * 50, Daehak-ro, Yeosu-si, Jeollanam-do, Republic of Korea
-
-<div style="text-align: center">
-    <div style="width=640">
-        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3277.21933451112!2d127.69675795103015!3d34.77525328031916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dda892c8011a1%3A0xd897160ba71b4b7e!2z7KCE64Ko64yA7ZWZ6rWQIOyXrOyImOy6oO2NvOyKpA!5e0!3m2!1sko!2skr!4v1659428305091!5m2!1sko!2skr" width="800" height="600" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-    </div>
-</div>
-
-<div style="height: 1rem;"></div>
-<div class="hr"></div>
-<div style="height: 1rem;"></div>
 **[Utop Marina Hotel](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG)**  
  * Odongdo-ro 61-15, Yeosu, Jeollanamdo (Sujeong-dong 777-1)  
 
@@ -29,6 +17,8 @@ permalink: /venue
         <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26229.02703434233!2d127.73482546942918!3d34.73976050869272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dd92970360325%3A0xb657528636c2a2a1!2z7Jyg7YOR66eI66as64KY7Zi47YWUJuumrOyhsO2KuA!5e0!3m2!1sko!2skr!4v1653881007965!5m2!1sko!2skr" width="800" height="600" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
+
+<div style="text-align:justify">A special discount is provided at the Utop Marina Hotel for conference participants. Ocean Family Twin (with breakfast for 2 persons) 150,000KRW, Ocean Family Double (with breakfast for 1 person) 132,000KRW. If you want a special discount, please fill out the link file below and send it to the hotel manager email ( naeun7522@nate.com ).</div>
 
 <div style="height: 1rem;"></div>
 <div class="hr"></div>

@@ -13,7 +13,7 @@ permalink: /submission
 #### Paper Submission Format
 
 Submitting papers should be formatted with the following paper templates (Springer Computer Science Proceedings format).  
-Formatting templates for MS-Word and LaTeX, as well as the link to Overleaf, are available: [Template file download link](#)
+Formatting templates for MS-Word and LaTeX, as well as the link to Overleaf, are available: [download link](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
 IW-FCV2023 accepts the following three paper types.
 * Full paper: 12-15+ pages

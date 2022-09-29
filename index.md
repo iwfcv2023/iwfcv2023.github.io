@@ -52,13 +52,12 @@ class: home
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
-## Venue  
-* Chonnam National University, Convention hall in Yeosu Campus
+## Venue
 * Utop Marina Hotel, Yeosu
 
 <div style="text-align: center">
     <div style="width=640">
-        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/d/u/0/embed?mid=1eXpMUeLIyPVIUQProEw2ii6Mn4f3huE&ehbc=2E312F" width="800vw" height="400vw" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe class="round-border embed-wrapper" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1645747.1943332006!2d126.72450404696617!3d33.97872238526683!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x356dd92970360325%3A0xb657528636c2a2a1!2z7Jyg7YOR66eI66as64KY7Zi47YWUJuumrOyhsO2KuA!5e0!3m2!1sko!2skr!4v1664414517870!5m2!1sko!2skr" width="800vw" height="400vw" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </div>
 
