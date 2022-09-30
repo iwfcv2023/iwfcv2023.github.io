@@ -45,9 +45,9 @@ class: home
 ## What's New
 
 <br> -<a href="/news">more</a>-
-+ 2022/05/31: [IW-FCV 2023 has been opened.](/)
-+ 2022/05/31: [IW-FCV 2023 has been opened.](/)
-+ 2022/05/31: [IW-FCV 2023 has been opened.](/)
++ 2022/09/27: Easychair submission system Open
++ 2022/05/31: IW-FCV 2023 Homepage Open
+
 
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
