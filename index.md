@@ -220,4 +220,3 @@ class: home
 - [Korean Computer Vision Society](https://kcvs.kr/)
 - [Korean Institute of Smart Media](https://kism.jams.or.kr/)
 - [Yeosu, Jeollanam-do](https://www.yeosu.go.kr/yseng)
-- [Culture Technology Institute, Chonnam National University](https://www.jnu.ac.kr)
