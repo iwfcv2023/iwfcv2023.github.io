@@ -81,7 +81,7 @@ class: home
 
 <div style="font-weight: bold; color: gray">Program Chairs</div>
 * Inseop Na (Chosun University, Korea)
-* TBD
+* Go Irie (Tokyo University of Science, Japan)
 
 <div style="margin: 30px"></div>
 
@@ -220,4 +220,4 @@ class: home
 - [Korean Computer Vision Society](https://kcvs.kr/)
 - [Korean Institute of Smart Media](https://kism.jams.or.kr/)
 - [Yeosu, Jeollanam-do](https://www.yeosu.go.kr/yseng)
-- [문화기술연구소](#)
+- [Culture Technology Institute, Chonnam National University](https://www.jnu.ac.kr)
