@@ -30,19 +30,25 @@ permalink: /registration
 
 * [Registration(credit card)](#)
 
-※ Normal Registration will be closed on Feb. 03. 2023 18:00 (KST).
+※ registration, please contact us by e-mail "iwfcv2023@gmail.com".
+
+※ Early Registration (Until Feb. 12 18:00 KST(GMT+9))
+
+※ Regular Registration (From Feb. 12 18:00 KST(GMT+9))
+
+※ Normal Registration will be closed on Feb. 16. 2023 18:00 (KST).
 
 ※ To Presenter (General and Student): If you have more than one presentation by yourself, you need to pay the registration fee for the number of presentations.
 
 ※ All participants will have download IW-FCV2023 Proceedings.
 
-※ If you wish to cancel, please let us know by email by 5:00p.m. Feb. 03(KST), we will refund your registration fee.
+※ If you wish to cancel, please let us know by email by 5:00p.m. Feb. 17(KST), we will refund your registration fee.
 
 ※ Please note that payments shall be only in Korean won. If you settle the payment outside Korea, the price changes depending on the exchange rate.
 
 ※ Bank transfer is limited only from the bank account of Korea.
 
-※ Downloading information of proceeding will be sent only to those who have completed the registration and the payment by February 19, 202318:00 (KST).
+※ Downloading information of proceeding will be sent only to those who have completed the registration and the payment by February 16, 2023 18:00 (KST).
 
 
 <div style="margin: 30px;"></div>
