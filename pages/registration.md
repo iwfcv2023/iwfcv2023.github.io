@@ -28,7 +28,9 @@ permalink: /registration
 </div>
 <div style="margin: 20px;"></div>
 
-* [Registration(credit card)](#)
+<!-- * [Registration(credit card)](#) -->
+
+※ Credit cards are only available when on-site payment
 
 ※ registration, please contact us by e-mail "iwfcv2023@gmail.com".
 
