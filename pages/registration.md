@@ -28,7 +28,7 @@ permalink: /registration
 </div>
 <div style="margin: 20px;"></div>
 
-<!-- * [Registration(credit card)](#) -->
+※ [Online Registration Form](https://docs.google.com/forms/d/e/1FAIpQLSctOYXDpjWT23TLsi1PXiTSfTLqwus6dHD6U2SDfOT8NP9N9A/viewform?usp=sharing) for all Authors (International + Domestic)
 
 ※ Credit cards are only available when on-site payment
 
