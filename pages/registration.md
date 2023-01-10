@@ -46,30 +46,24 @@ permalink: /registration
 
 ※ If you submit the early online registration form, on-site payment is the early registration fee
 
-<!-- (더 크게) -->
-※ Payment method : (1) On-site(credit card), (2) On-site(cash), (3) Korean bank transfer
-<!-- (더 크게) -->
+<span>※</span> <b style="font-size: 1.2em">Payment method : (1) On-site(credit card), (2) On-site(cash), (3) Korean bank transfer</b>
+
 ※ We recommend that foreigners first do 'early registration', and pay it on-site later (credit card or cash).
 
 ※ International transfer information for foreigners
 
 <div>
-  <table style= "margin: auto">
-    <th style = "background-color: #E2E2E2">Registration fee</th>
-    <th style = "background-color: #E2E2E2">Early Registration</th>
-    <th style = "background-color: #E2E2E2">Regular Registration</th>
+  <table>
+    <th colspan = "2" style = "background-color: #E2E2E2">bank account inform</th>
 
     <tr align = "center" >
-        <td >Student</td>
-        <td>150,000KRW (≒15,000JPY)</td>
-        <td>200,000KRW (≒20,000JPY)</td>
+        <td >TBA</td>
+        <td>TBA</td>
     </tr>
 
     <tr align = "center" >
-        <td>Non-student</td>
-        
-        <td>300,000KRW (≒30,000JPY)</td>
-        <td>350,000KRW (≒35,000JPY)</td>
+        <td>TBA</td>
+        <td>TBA</td>
     </tr>
   </table>
 </div>
