@@ -61,19 +61,9 @@ permalink: /registration
 <div style="height: 1rem;"></div>
 
 ## 국내결제 안내
-* [결제 링크 목록 (TBA)](#)
-* Domestic Payment Guide (PayPal 안되는 경우, 국내 계좌 결제 안내)
-  * 입금 계좌:
-  * 문의처: 
-  * 연구비 증빙 관련 안내
-    * 등록비관련 증빙은 "학회참가증"(금액포함) 발급해드립니다. 필요하신 경우, iwfcv2023@gmail.com로 입금자/참가자 성명과 입금일자/금액을 적어서 요청해주십시오.
-    * 전자세금계산서/전자계산서 발급 불가합니다. 
-    * 귀 기관의 연구비 관련 청구시 본 학회에서 "학회참가증"을 발급해드릴 것이며, 입금자의 "이체내역서"를 함께 제출하시는 것을 권장합니다.
-
-<!-- ## Hotel Registration
-
-* 자세한 호텔 등록 정보
-
-{%- include venue_image.html -%}
- -->
-<!-- * [Reservation at offical site](https://www.utopmarina.com/view/index.do?SS_SVC_LANG_CODE=ENG) -->
+* 입금 계좌 : 광주은행 1107-021-498870
+* 예금주명 : 이칠우(FCV2023)
+* 문의처: iwfcv2023@gmail.com
+* 연구비 증빙 관련 안내
+  * 등록비관련 증빙은 "학회참가증"과 "영수증"을 발급해드립니다.
+  * 전자세금계산서/전자계산서 발급 불가합니다.
