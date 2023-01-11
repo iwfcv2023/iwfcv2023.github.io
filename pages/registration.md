@@ -57,13 +57,33 @@ permalink: /registration
     <th colspan = "2" style = "background-color: #E2E2E2">bank account inform</th>
 
     <tr align = "center" >
-        <td >TBA</td>
-        <td>TBA</td>
+        <td >Bank Name</td>
+        <td>KWANGJU BANK</td>
     </tr>
 
     <tr align = "center" >
-        <td>TBA</td>
-        <td>TBA</td>
+        <td>Branch</td>
+        <td>Chonnam National Univ. Branch</td>
+    </tr>
+
+    <tr align = "center" >
+        <td>Bank Address</td>
+        <td>225, jebong-ro, Dong-gu, Gwangju, S.Korea</td>
+    </tr>
+
+    <tr align = "center" >
+        <td>SWIFT Code</td>
+        <td>KWABKRSE</td>
+    </tr>
+
+    <tr align = "center" >
+        <td>Beneficiary's Account</td>
+        <td>1107-021-498870</td>
+    </tr>
+
+    <tr align = "center" >
+        <td>Beneficiary's Name</td>
+        <td>LEE Chil Woo (FCV2023)</td>
     </tr>
   </table>
 </div>
