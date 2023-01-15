@@ -19,7 +19,8 @@ permalink: /venue
 
 ## Special discount for paricipants
 
-<div style="text-align:justify">A special discount is provided at the Utop Marina Hotel for conference participants. Ocean Family Twin (with breakfast for 2 persons) 150,000KRW, Ocean Family Double (with breakfast for 1 person) 132,000KRW. If you want a special discount, please fill out the link file below and send it to the hotel manager email ( naeun7522@nate.com ).</div>
+<div style="text-align:justify">A special discount is provided at the Utop Marina Hotel for conference participants. Ocean Family Twin (with breakfast for 2 persons) 150,000KRW, Ocean Family Double (with breakfast for 1 person) 132,000KRW.
+If you want a special discount, please fill out the [link](/assets/accomodation.docx) file below and send it to the hotel manager email ( naeun7522@nate.com ).</div>
 
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
