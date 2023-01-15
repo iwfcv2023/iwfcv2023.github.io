@@ -21,7 +21,7 @@ IW-FCV2023 accepts the following three paper types.
 
 #### Submission Date
 
-* Submission of Paper: January 14
++ Submission of Paper: ~~January 14, 2023~~January 24, 2023(final)
 * Decision Notification: January 29, 2023
 * Submission of Camera-ready Paper: February 4, 2023
 * Registration Due
