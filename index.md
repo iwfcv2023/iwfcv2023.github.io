@@ -215,8 +215,11 @@ class: home
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
 
-## Sponsers
+
+## Organizers
 - [Chonnam National University](https://global.jnu.ac.kr/jnumain_en.aspx)
 - [Korean Computer Vision Society](https://kcvs.kr/)
+
+## Sponsers
 - [Korean Institute of Smart Media](https://kism.jams.or.kr/)
 - [Yeosu, Jeollanam-do](https://www.yeosu.go.kr/yseng)
