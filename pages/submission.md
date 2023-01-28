@@ -46,7 +46,7 @@ Introduce yourself to your session chair in the presentation room
 Test your laptop or upload your slides to the conference computer
 If you use the conference computer, remember to embed (and not link) all videos into the presentation file
 
-The LCD projector has both VGA and HDMI connections. While the projector is compatible with wide-size (16:9 or 16:10) presentation slides, the size (aspect ratio) of the screen is standard-size (4:3). So, be sure that a wide-size presentation will be reduced in size to fit the screen width.
+The LCD projector has HDMI connection(no RGB VGA connector).The projector is compatible with wide-size (16:9 or 16:10) presentation slides, so, recommend a wide-size screen width slides.
 
 The speed of the internet connection will be limited. We do not recommend you to use video-streaming or online-demonstration in your presentation.
 
