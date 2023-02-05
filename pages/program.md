@@ -20,7 +20,7 @@ class: home
     <a href="/assets/Time_Table_v3.pdf" download="TimeTable.pdf">Download Link</a>
 </div>
 
-<img style="border-radius: 0em; margin: 0 20% 0 20%; max-width: 60%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/TimeTable.png" alt="TimeTable">
+<img style="border-radius: 0em; margin: 0 20% 0 20%; max-width: 60%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/TimeTable_v2.png" alt="TimeTable">
 
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
