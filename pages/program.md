@@ -2,8 +2,29 @@
 title: Program
 layout: default
 permalink: /program
-class: centerize
+class: home
 ---
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+
+## Time Table
+
+<div style="font-weight: bold; color: gray">
+    Program : 
+    <a href="/assets/Program_paper_v4.pdf" download="Program.pdf">Download Link</a>
+</div>
+<div style="font-weight: bold; color: gray">
+    TimeTable : 
+    <a href="/assets/Time_Table_v3.pdf" download="TimeTable.pdf">Download Link</a>
+</div>
+
+<img style="margin: 0px" src="/assets/TimeTable.png" alt="TimeTable">
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
 
 ## Keynote Speaker
 
@@ -11,7 +32,7 @@ class: centerize
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
 <div class="col" style="display: flex; flex-direction: column;">
-    <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 50px; color:rgb(65, 0, 249)">
+    <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 50px; color:rgb(65, 0, 249); text-align: center;">
         Keynote Speaker #1
     </p>
     <div class="row">
@@ -36,7 +57,7 @@ class: centerize
     <div style="height: 1rem;"></div>
     <div class="hr"></div>
     <div style="height: 1rem;"></div>
-    <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 50px; color:rgb(65, 0, 249)">
+    <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 50px; color:rgb(65, 0, 249); text-align: center;">
         Keynote Speaker #2
     </p>
     <div class="row" style="margin:10px;">
