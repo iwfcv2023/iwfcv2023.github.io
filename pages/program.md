@@ -13,11 +13,11 @@ class: home
 
 <div style="font-weight: bold; color: gray; text-align: right;">
     Program : 
-    <a href="/assets/Program_paper_v4.pdf" download="Program.pdf">Download Link</a>
+    <a href="/assets/Program_paper_v5.pdf" download="Program.pdf">Download Link</a>
 </div>
 <div style="font-weight: bold; color: gray; text-align: right;">
     TimeTable : 
-    <a href="/assets/Time_Table_v3.pdf" download="TimeTable.pdf">Download Link</a>
+    <a href="/assets/Time_Table_v4.pdf" download="TimeTable.pdf">Download Link</a>
 </div>
 
 <img style="border-radius: 0em; margin: 0 20% 0 20%; max-width: 60%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/TimeTable_v2.png" alt="TimeTable">
