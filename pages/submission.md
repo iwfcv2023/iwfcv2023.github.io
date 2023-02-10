@@ -38,7 +38,7 @@ Paper submission is handled via EasyChair : [Submit Link](https://easychair.org/
 
 ## Presentation Instructions
 #### Oral Presentation Instructions
-Each oral presentation is allocated 15 minutes: 10 minutes for presentation + 5 minutes for Q&A and setup. And each extended-summary presentation is allocated 5 minutes for presentation + 2 minutes for Q&A and setup.
+Each oral presentation is allocated 20 minutes: 15 minutes for presentation + 5 minutes for Q&A and setup. And each extended-summary presentation is allocated 5 minutes for presentation + 2 minutes for Q&A and setup.
 
 At the workshop, 10 minutes before your session, you must:
 
