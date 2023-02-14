@@ -7,23 +7,6 @@ permalink: /news
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
-## Technical fair Notice
-
-Participation fee: 10,000 won. 
-
-Departure date: February 22nd.
-
-Departure time: 8am. 
-
-Departure location: U-top marina hotel front entrance. 
-
-Estimated duration: 4 hours (expected to return to the hotel at 12pm). 
-
-Lunch not provided.
-
-<div style="height: 1rem;"></div>
-<div class="hr"></div>
-<div style="height: 1rem;"></div>
 ## Conference Highlights
 
 + [TBA](#)
