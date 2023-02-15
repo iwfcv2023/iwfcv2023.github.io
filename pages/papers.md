@@ -68,8 +68,42 @@ permalink: /papers
 
 <div style="font-weight: bold; color: gray">Poster Session 1</div>
 
-* 
+* Format-Compatible 3D Metahuman Modeling from a Single Image_Sojin Yun[[Link]](/assets/Poster/P1-1)%20Format-Compatible%203D%20Metahuman%20Modeling%20from%20a%20Single%20Image_Sojin%20Yun.pdf)
+* YOLO5PKLot A Parking Lot Detection Network Based on Improved YOLOv5 for Smart Parking Management System_Duy-Linh Nguyen[[Link]](/assets/Poster/P1-2)%20YOLO5PKLot%20A%20Parking%20Lot%20Detection%20Network%20Based%20on%20Improved%20YOLOv5%20for%20Smart%20Parking%20Management%20System_Duy-Linh%20Nguyen.pdf)
+* Texture Synthesis Based on Aesthetic Texture Perception Using CNN Style and Content Features_[[Link]](/assets/Poster/P1-3)%20Texture%20Synthesis%20Based%20on%20Aesthetic%20Texture%20Perception%20Using%20CNN%20Style%20and%20Content%20Features_.pdf)
+* Emotion Recognition by using optimised deep features_Irfan Haider[[Link]](/assets/Poster/P1-4)%20Emotion%20Recognition%20by%20using%20optimised%20deep%20features_Irfan%20Haider.pdf)
+* Monitoring students’ classroom attention on digital platform_Hiromasa Nakatani[[Link]](/assets/Poster/P1-5)%20Monitoring%20students%E2%80%99%20classroom%20attention%20on%20digital%20platform_Hiromasa%20Nakatani.pdf)
+* Patent Image Retrieval Using Cross-entropy-based Metric Learning_Kotaro Higuchi[[Link]](/assets/Poster/P1-6)%20Patent%20Image%20Retrieval%20Using%20Cross-entropy-based%20Metric%20Learning_Kotaro%20Higuchi.pdf)
+* Pre-training of Pneumonia Classifier for Chest CT images using Fractal Database_Yuken Yoshioka[[Link]](/assets/Poster/P1-7)%20Pre-training%20of%20Pneumonia%20Classifier%20for%20Chest%20CT%20images%20using%20Fractal%20Database_Yuken%20Yoshioka.pdf)
+* Advanced Video Inpainting method using Residual Query Connection_Youngjun La[[Link]](/assets/Poster/P1-8)%20Advanced%20Video%20Inpainting%20method%20using%20Residual%20Query%20Connection_Youngjun%20La.pdf)
+* Utilization of Temporal Detection Consistency for Improving the Multi-Object Tracking_Abhyudaya Singh Tak[[Link]](/assets/Poster/P1-9)%20Utilization%20of%20Temporal%20Detection%20Consistency%20for%20Improving%20the%20Multi-Object%20Tracking_Abhyudaya%20Singh%20Tak.pdf)
+* A Study on Tracking Moving Objects Pig counting with YOLOv5  and StrongSORT_Seunggwan Lee[[Link]](/assets/Poster/P1-10)%20A%20Study%20on%20Tracking%20Moving%20Objects%20Pig%20counting%20with%20YOLOv5%20%20and%20StrongSORT_Seunggwan%20Lee.pdf)
+* BRDF Measurement with TDCRA_Atsushi Kimura[[Link]](/assets/Poster/P1-11)%20BRDF%20Measurement%20with%20TDCRA_Atsushi%20Kimura.pdf)
+* Multi-scale Recurrent Residual U-Net for Anomaly Segmentation in Industrial Images_Haoyu Chen[[Link]](/assets/Poster/P1-12)%20Multi-scale%20Recurrent%20Residual%20U-Net%20for%20Anomaly%20Segmentation%20in%20Industrial%20Images_Haoyu%20Chen.pdf)
+* LHFAN Scene Text Recognition Method Based on Multi-level Feature Fusion and Enhancement of Semantic Knowledge_Ruturaj Mahadshetti[[Link]](/assets/Poster/P1-13)%20LHFAN%20Scene%20Text%20Recognition%20Method%20Based%20on%20Multi-level%20Feature%20Fusion%20and%20Enhancement%20of%20Semantic%20Knowledge_Ruturaj%20Mahadshetti.pdf)
+* Preliminary Study on Fish Tracking in Indoor Aquaculture through Deep Learning_Nguyen Ngoe Huynh[[Link]](/assets/Poster/P1-14)%20Preliminary%20Study%20on%20Fish%20Tracking%20in%20Indoor%20Aquaculture%20through%20Deep%20Learning_Nguyen%20Ngoe%20Huynh.pdf)
+* Front Cover Image Database of Japanese Manga and Typeface Estimation of their Title_Shota Ishiyama[[Link]](/assets/Poster/P1-15)%20Front%20Cover%20Image%20Database%20of%20Japanese%20Manga%20and%20Typeface%20Estimation%20of%20their%20Title_Shota%20Ishiyama.pdf)
+* Robotics Education under Pandemic Lockdown Situation._Danilo  Cáceres-Hernández[[Link]](/assets/Poster/P1-16)%20Robotics%20Education%20under%20Pandemic%20Lockdown%20Situation._Danilo%20%20C%C3%A1ceres-Hern%C3%A1ndez.pdf)
+* Lane Detection using Canny Edge Detection Algorithm for Real-time Racing Game_Iftikhar Ahmad[[Link]](/assets/Poster/P1-17)%20Lane%20Detection%20using%20Canny%20Edge%20Detection%20Algorithm%20for%20Real-time%20Racing%20Game_Iftikhar%20Ahmad.pdf)
+* Influence Analysis of Each Facial Region on Facial Expressions Recognition_Minsol Park[[Link]](/assets/Poster/P1-18)%20Influence%20Analysis%20of%20Each%20Facial%20Region%20on%20Facial%20Expressions%20Recognition_Minsol%20Park.pdf)
 
 <div style="font-weight: bold; color: gray">Poster Session 2</div>
 
-* 
+* Diffuse Large B-cell Lymphoma Survival Prediction using Encoding Clinical Features_Phuc Pham[[Link]](/assets/Poster/P2-1)%20Diffuse%20Large%20B-cell%20Lymphoma%20Survival%20Prediction%20using%20Encoding%20Clinical%20Features_Phuc%20Pham.pdf)
+* Robust Data Augmentation for Accurate Human Pose Estimator_SyPhue Pham[[Link]](/assets/Poster/P2-2)%20Robust%20Data%20Augmentation%20for%20Accurate%20Human%20Pose%20Estimator_SyPhue%20Pham.pdf)
+* Multi-task model for glioma segmentation and isocitrate  dehydrogenase status prediction using segmentation  boundary_Xiaoyu Shi[[Link]](/assets/Poster/P2-3)%20Multi-task%20model%20for%20glioma%20segmentation%20and%20isocitrate%20%20dehydrogenase%20status%20prediction%20using%20segmentation%20%20boundary_Xiaoyu%20Shi.pdf)
+* Impression Estimation of Suit Patterns Based on Style Features Using Multi-scale CNN_Eiki Tsumura[[Link]](/assets/Poster/P2-4)%20Impression%20Estimation%20of%20Suit%20Patterns%20Based%20on%20Style%20Features%20Using%20Multi-scale%20CNN_Eiki%20Tsumura.pdf)
+* A multi-layered structure of Pretrained Convolutional Neural Network for weed classification_Gwanghyun Yu[[Link]](/assets/Poster/P2-5)%20A%20multi-layered%20structure%20of%20Pretrained%20Convolutional%20Neural%20Network%20for%20weed%20classification_Gwanghyun%20Yu.pdf)
+* Two-stream Network for Moving Object Detection_Wisan Dhammatorn[[Link]](/assets/Poster/P2-6)%20Two-stream%20Network%20for%20Moving%20Object%20Detection_Wisan%20Dhammatorn.pdf)
+* Multimodal Transformer for Automatic Depression Estimation System_Khanh Nguyen[[Link]](/assets/Poster/P2-7)%20Multimodal%20Transformer%20for%20Automatic%20Depression%20Estimation%20System_Khanh%20Nguyen.pdf)
+* Motion synthesis for automatic animation of sign language_Jongho Jeong[[Link]](/assets/Poster/P2-8)%20Motion%20synthesis%20for%20automatic%20animation%20of%20sign%20language_Jongho%20Jeong.pdf)
+* Cattle Action Recognition with Multi-Viewpoint Cameras based on Deep Learning_Muhammad Fahad Nasir[[Link]](/assets/Poster/P2-9)%20Cattle%20Action%20Recognition%20with%20Multi-Viewpoint%20Cameras%20based%20on%20Deep%20Learning_Muhammad%20Fahad%20Nasir.pdf)
+* Convolutional Neural Networks with Particle Swarm Optimization A Reliable Method for SARS-CoV-2 Detection in X-Ray Images_Atif Ali[[Link]](/assets/Poster/P2-10)%20Convolutional%20Neural%20Networks%20with%20Particle%20Swarm%20Optimization%20A%20Reliable%20Method%20for%20SARS-CoV-2%20Detection%20in%20X-Ray%20Images_Atif%20Ali.pdf)
+* Multi-region based radial GCN algorithm for real-time action recognition_Hanbyul Jang[[Link]](/assets/Poster/P2-11)%20Multi-region%20based%20radial%20GCN%20algorithm%20for%20real-time%20action%20recognition_Hanbyul%20Jang.pdf)
+* Advanced Machine Learning Techniques To Identify Emotions In Texts_Zulqarnain Fareed[[Link]](/assets/Poster/P2-12)%20Advanced%20Machine%20Learning%20Techniques%20To%20Identify%20Emotions%20In%20Texts_Zulqarnain%20Fareed.pdf)
+* Object Pose Estimation Based on Template-matching Using Attention Module and Residual Block_Gaeun Noh[[Link]](/assets/Poster/P2-13)%20Object%20Pose%20Estimation%20Based%20on%20Template-matching%20Using%20Attention%20Module%20and%20Residual%20Block_Gaeun%20Noh.pdf)
+* COVID -19 Detection based on CT Scan Images using Deep Learning Methods_Tuan Le Dinh[[Link]](/assets/Poster/P2-14)%20COVID%20-19%20Detection%20based%20on%20CT%20Scan%20Images%20using%20Deep%20Learning%20Methods_Tuan%20Le%20Dinh.pdf)
+* Change Detection Over Multispectral Images A Case Study On RUSHIKONDA_Fyzulla Shaik[[Link]](/assets/Poster/P2-16)%20Change%20Detection%20Over%20Multispectral%20Images%20A%20Case%20Study%20On%20RUSHIKONDA_Fyzulla%20Shaik.pdf)
+* Gaussian Process based Illumination Planning for Photometric Stereo_Yuji Oyamada[[Link]](/assets/Poster/P2-17)%20Gaussian%20Process%20based%20Illumination%20Planning%20for%20Photometric%20Stereo_Yuji%20Oyamada.pdf)
+* Classifying Breast Cancer Using Deep Convolutional  Neural Network Method_Musfequa Rahman[[Link]](/assets/Poster/P2-19)%20Classifying%20Breast%20Cancer%20Using%20Deep%20Convolutional%20%20Neural%20Network%20Method_Musfequa%20Rahman.pdf)
+* Rough Target Region Extraction with Background  Learning_Ryo Nakamura[[Link]](/assets/Poster/P2-20)%20Rough%20Target%20Region%20Extraction%20with%20Background%20%20Learning_Ryo%20Nakamura.pdf)
