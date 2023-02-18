@@ -8,6 +8,11 @@ permalink: /papers
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
 
+## IW-FCV2023 Online Proceeding
+<div style="font-weight: bold; color: gray; text-align: right;">
+    Proceeding Book : 
+    <a href="/assets/Final-proceeding Book_compressed.pdf" download="Proceeding_Book.pdf">Download Link</a>
+</div>
 ## Oral Papers
 
 <div style="font-weight: bold; color: gray">Oral Session 1</div>
