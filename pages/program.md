@@ -31,7 +31,7 @@ class: home
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
-<div class="col" style="display: flex; flex-direction: column;">
+<div class="col" style="display: flex; flex-direction: row;">
     <p style="font-size: 1.5em; font-weight: bold; margin-bottom: 50px; color:rgb(65, 0, 249); text-align: center;">
         Keynote Speaker #1
     </p>
