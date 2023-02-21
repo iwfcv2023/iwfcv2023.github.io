@@ -21,6 +21,10 @@ permalink: /news
 + 2022/09/27: Easychair submission system Open
 + 2022/05/31: IW-FCV 2023 Homepage Open
 
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+
 ## Day 1
 
 <div style="display: flex; flex-direction: row; margin: 0 5% 0 5%;">
