@@ -109,6 +109,55 @@ permalink: /news
     </div>
 </div>
 
+
+<div style="display: flex; flex-direction: row; margin: 0 5% 0 5%;">
+    <div style="width:auto; height:40%; float:left; display: flex; flex-direction: column;">
+        <div  style="display: flex; flex-direction: row;">
+            <img style="border-radius: 0em; max-width: 100%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/img/honor1.jpeg" alt="lunch">
+        </div>
+        <p style="font-size: 150%; color:Navy">Certificate Ceremony</p>
+    </div>
+    <div style="width:10%"></div>
+    <div style="width:auto; height:40%; float:left; display: flex; flex-direction: column;">
+        <div  style="display: flex; flex-direction: row;">
+            <img style="border-radius: 0em; max-width: 100%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/img/honor2.jpeg" alt="Poster">
+        </div>
+    </div>
+</div>
+
+
+
+<div style="display: flex; flex-direction: row; margin: 0 5% 0 5%;">
+    <div style="width:auto; height:40%; float:left; display: flex; flex-direction: column;">
+        <div  style="display: flex; flex-direction: row;">
+            <img style="border-radius: 0em; max-width: 100%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/img/iwfcv2024.jpeg" alt="lunch">
+        </div>
+        <p style="font-size: 150%; color:Navy">introducing IWFCV2024</p>
+    </div>
+    <div style="width:10%"></div>
+    <div style="width:auto; height:40%; float:left; display: flex; flex-direction: column;">
+        <div  style="display: flex; flex-direction: row;">
+            <img style="border-radius: 0em; max-width: 100%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/img/iwfcv20242.jpeg" alt="Poster">
+        </div>
+    </div>
+</div>
+
+
+<div style="display: flex; flex-direction: row; margin: 0 5% 0 5%;">
+    <div style="width:auto; height:40%; float:left; display: flex; flex-direction: column;">
+        <div  style="display: flex; flex-direction: row;">
+            <img style="border-radius: 0em; max-width: 100%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/img/Ending1.jpeg" alt="lunch">
+        </div>
+        <p style="font-size: 150%; color:Navy">End Ceremony</p>
+    </div>
+    <div style="width:10%"></div>
+    <div style="width:auto; height:40%; float:left; display: flex; flex-direction: column;">
+        <div  style="display: flex; flex-direction: row;">
+            <img style="border-radius: 0em; max-width: 100%; height: auto; display: block; box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, .5);" src="/assets/img/Ending2.jpeg" alt="Poster">
+        </div>
+    </div>
+</div>
+
 <div style="height: 1rem;"></div>
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
