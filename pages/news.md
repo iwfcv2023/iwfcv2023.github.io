@@ -76,7 +76,7 @@ permalink: /news
 <div class="hr"></div>
 <div style="height: 1rem;"></div>
 
-## Day 1
+## Day 2
 
 <div style="display: flex; flex-direction: row; margin: 0 5% 0 5%;">
     <div style="width:auto; height:40%; float:left; display: flex; flex-direction: column;">
@@ -108,3 +108,12 @@ permalink: /news
         <p style="font-size: 150%; color:Navy">Poster Session</p>
     </div>
 </div>
+
+<div style="height: 1rem;"></div>
+<div class="hr"></div>
+<div style="height: 1rem;"></div>
+
+## Day 3
+
++ Technical Tour 1[[Link]](https://youtube.com/watch?v=wPB72HN9KdM&si=EnSIkaIECMiOmarE)
++ Technical Tour 2[[Link]](https://youtube.com/watch?v=XTKNAKC3D_8&si=EnSIkaIECMiOmarE)
