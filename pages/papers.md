@@ -46,7 +46,6 @@ permalink: /papers
 * Task-specific Scene Structure Representations[[Link]](/assets/Oral/O4-3.%20Task-specific%20Scene%20Structure%20Representations.pdf)
 * Learning Depth from Focus in the Wild[[Link]](/assets/Oral/O4-4.%20Learning%20Depth%20from%20Focus%20in%20the%20Wild.pdf)
 * Human Face Detector with Gender Identification by Split-based Inception Block and Regulated Attention Module[[Link]](/assets/Oral/O4-5.%20Human%20Face%20Detector%20with%20Gender%20Identification%20by%20Split-based%20Inception%20Block%20and%20Regulated%20Attention%20Module.pdf)
-* Novel Surveillance System for Suspicious Activities Analysis using Deep Learning[[Link]](/assets/Oral/O4-6.%20Novel%20Surveillance%20System%20for%20Suspicious%20Activities%20Analysis%20using%20Deep%20Learning.pdf)
 
 <div style="font-weight: bold; color: gray">Oral Session 5 <a href="https://jnu-ac-kr.zoom.us/j/88104772760?pwd=L1J1WXgreUhtaVJ3WjQ5SEVuai9Gdz09">[Zoom Link]</a> </div>
 
